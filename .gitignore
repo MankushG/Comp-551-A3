@@ -1,0 +1,6 @@
+.venv/
+.uv-cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+predicted_labels.csv
