@@ -1,0 +1,9 @@
+# Minimal top-level dependencies (pip-friendly).
+# Source of truth remains pyproject.toml + uv.lock for uv users.
+matplotlib>=3.10.8
+numpy<2
+pandas<3
+scikit-learn>=1.8.0
+torch==2.2.2
+torchvision>=0.17.2
+ipykernel>=7.2.0
