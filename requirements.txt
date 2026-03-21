@@ -1,5 +1,3 @@
-# Minimal top-level dependencies (pip-friendly).
-# Source of truth remains pyproject.toml + uv.lock for uv users.
 matplotlib>=3.10.8
 numpy<2
 pandas<3
